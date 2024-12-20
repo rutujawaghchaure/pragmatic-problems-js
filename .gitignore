@@ -65,3 +65,6 @@ coverage
 # System Files
 .DS_Store
 Thumbs.db
+
+# Solutions
+solutions/
