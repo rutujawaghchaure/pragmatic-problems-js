@@ -58,11 +58,6 @@ Problems are structured to gradually build your problem-solving skills. Each pro
 
 Check out our complete list of problems here: [Basic_Problems.md](Basic_Problems.md) 🔍
 
-Currently added problems:
-1. q1: [Problem Name] (Problem Link) 🎯
-2. q2: Domino Piling - Place maximum number of 2×1 dominoes on an M×N board 🎲
-3. [More problems to be added...] 🔜
-
 ## 💡 Tips
 
 1. Read the test file for each problem to understand:
