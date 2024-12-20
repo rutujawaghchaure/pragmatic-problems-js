@@ -47,9 +47,9 @@ To test your solutions, use one of these commands:
 npm test
 ```
 
-- Run tests in watch mode (tests re-run when you save changes):
+- Run test for a given question
 ```bash
-npm run test:watch
+npm test q2
 ```
 
 ## 📚 Problem List
